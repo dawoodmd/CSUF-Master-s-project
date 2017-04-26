@@ -1,2 +1,4 @@
 # CSUF-Master-s-project
 Recognition of handwritten digits using python with tensor flow
+It is actually a Kaggle competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. 
+In this project to get the results more accurate and less error percentage rate few different types of dependencies and library functions are used, the coding of the machine learning algorithm is done by using Python script and based on the Keras dependency which works on both the TensorFlow and Theano open source licensed library functions the code runs. Convolutional Neural Networks or otherwise CNNS/ ConvNets are used in this project instead of using Neural Networks, CNNs are very similar to the ordinary Neural Networks, but they are made up of neurons that have learnable weights and biases. Better results are obtained using the above method compared to other traditional methods explained.
